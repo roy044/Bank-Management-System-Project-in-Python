@@ -186,7 +186,7 @@ while ch != 8:
     print("\t7. MODIFY AN ACCOUNT")
     print("\t8. EXIT")
     print("\tSelect Your Option (1-8) ")
-    ch = input()
+    ch = input("Enter your choice : ")
     #system("cls");
     
     if ch == '1':
@@ -214,7 +214,7 @@ while ch != 8:
     else :
         print("Invalid choice")
     
-    ch = input("Enter your choice : ")
+    
     
 
 
